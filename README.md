@@ -1,4 +1,5 @@
 # Portfolio Analyst
+(assets/img/headshot.jpg)
 
 ### Education
 Financial Engineering, Master
