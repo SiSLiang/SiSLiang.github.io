@@ -26,7 +26,5 @@ Our project aims to assess the effectiveness of applying an existing Bitcoin tra
 
 ## Work Experience
 **247Lytics, Data Science Intern | San Francisco, CA                       May 2024 – Aug 2024**
-
 **Lehigh University, AI Research Assistant | Bethlehem, PA                 Feb 2024 – May 2024**
-
 **JP Morgan, Credit Risk Analyst | Forage Virtual Internship               May 2023 – July 2023**
